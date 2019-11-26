@@ -43,7 +43,6 @@
                             "extractLicenses": true,
                             "vendorChunk": false,
                             "buildOptimizer": true,
-                            "baseHref": "https://hermoz.github.io/FirstApp/",
                             "budgets": [{
                                     "type": "initial",
                                     "maximumWarning": "2mb",
